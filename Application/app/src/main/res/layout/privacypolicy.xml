@@ -1,0 +1,55 @@
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:id="@+id/_coordinator"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+	<com.google.android.material.appbar.AppBarLayout
+		android:id="@+id/_app_bar"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:theme="@style/AppTheme.AppBarOverlay">
+		<androidx.appcompat.widget.Toolbar
+			android:id="@+id/_toolbar"
+			android:layout_width="match_parent"
+			android:layout_height="?attr/actionBarSize"
+			android:background="?attr/colorPrimary"
+			app:popupTheme="@style/AppTheme.PopupOverlay"/>
+	</com.google.android.material.appbar.AppBarLayout>
+
+	<LinearLayout
+		android:id="@+id/linearLayout"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:orientation="vertical"
+		app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+		<LinearLayout
+			android:id="@+id/linear1"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_weight="1"
+			android:background="#FFFFFF"
+			android:orientation="horizontal">
+
+			<ScrollView
+				android:id="@+id/vscroll2"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				android:padding="8dp">
+
+				<TextView
+					android:id="@+id/textview1"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:gravity="center_horizontal|center_vertical"
+					android:padding="8dp"
+					android:text="privacy Policy\n\nNotes Plus Is A Normal Life Using Application. We Are Getting Pemision OF Your Store To Save Notes And Data In Your Mobile , getting Permison Of Your Internet Conection To Send Your Notes To Other Social Media Platform. We Are Getting Permosion To Open Link In Your Browser. we Are Don'T Send Email For Any Mony. We Are Not Get Yur Any Deta In Ower Server System. Your Deta Is Secure In Your Phone. We Are Not Get Your Email And Your Password. We Are Don't Share Any Pepoles Data , Like Notes , PHOTOES.Our application is Made For All Pepole In Any Ages.\n\nAutometically Collected Information\n\nin Added, The Application/product/Services May Collect Certain Information Autometically, Inculiding, But Not Limited To, The Type Of Mobile Devices You Use, Your Mobile Device Unique Device ID , The Ip Address Of Your Mobile Device , We Are Collect Other Relevant Information As Per The Permission That You Provide.\n\nCopyright \n\nAll Information Displayed, Transmitted Or Carried On Our App Is Proctected By Copy Right And Other Intellectual Proparty Laws. You May Not , Under Any Circustancew , Modify , Publish , Disctribute Respost , Platfrom , Display Or In Any Way Commericially Exploit Any Of Content On This App.\n \n\nThird Party Services \n\nThe Website Many Content Features Or Links To Website And Services Provided By Third Parties. Any Information You Provide On Thired Party Sites Or Services Is Provided Directly To The Operators' Policies , If Any Governing Privacy And Security , Even If Accessed Though The Service. We Are Not Resposbility For The Content Or Privacy Policy Of Thired Party Sites Or Sevices To Which Links Or Access Are Provided Though The ServicesWe Encourge You Learn About Thired Parties' Privacy And Security Policies Before Providing Them With Information.\n"
+					android:textColor="#000000"
+					android:textSize="12sp" />
+			</ScrollView>
+		</LinearLayout>
+	</LinearLayout>
+
+</RelativeLayout>

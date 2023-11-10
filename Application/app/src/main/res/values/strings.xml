@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Notes Plus</string>
+    <string name="admob_appid">ca-app-pub-1243945164351645~3416572388</string>
+    <string name="admob_banner_id">ca-app-pub-1243945164351645\3416572388</string>
+</resources>

@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "E:\\NoteP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_radio_button_off_black.png.flat",
+        "source": "E:\\NoteP\\app\\src\\main\\res\\drawable-xhdpi\\ic_radio_button_off_black.png"
+    },
+    {
+        "merged": "E:\\NoteP\\app\\build\\intermediates\\res\\merged\\debug\\layout_note_edit.xml.flat",
+        "source": "E:\\NoteP\\app\\src\\main\\res\\layout\\note_edit.xml"
+    },
+    {
+        "merged": "E:\\NoteP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_privacy_policy.xml.flat",
+        "source": "E:\\NoteP\\app\\src\\main\\res\\layout\\activity_privacy_policy.xml"
+    },
+    {
+        "merged": "E:\\NoteP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app_icon.png.flat",
+        "source": "E:\\NoteP\\app\\src\\main\\res\\drawable-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\NoteP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_add_note.png.flat",
+        "source": "E:\\NoteP\\app\\src\\main\\res\\drawable-xhdpi\\ic_add_note.png"
+    },
+    {
+        "merged": "E:\\NoteP\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_note.xml.flat",
+        "source": "E:\\NoteP\\app\\src\\main\\res\\layout\\add_note.xml"
+    },
+    {
+        "merged": "E:\\NoteP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_outline_create_black.png.flat",
+        "source": "E:\\NoteP\\app\\src\\main\\res\\drawable-xhdpi\\outline_create_black.png"
+    },
+    {
+        "merged": "E:\\NoteP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_delete.png.flat",
+        "source": "E:\\NoteP\\app\\src\\main\\res\\drawable-xhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "E:\\NoteP\\app\\build\\intermediates\\res\\merged\\debug\\layout_settings.xml.flat",
+        "source": "E:\\NoteP\\app\\src\\main\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "E:\\NoteP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_play_arrow.png.flat",
+        "source": "E:\\NoteP\\app\\src\\main\\res\\drawable-xhdpi\\ic_play_arrow.png"
+    },
+    {
+        "merged": "E:\\NoteP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_select_all_black.png.flat",
+        "source": "E:\\NoteP\\app\\src\\main\\res\\drawable-xhdpi\\ic_select_all_black.png"
+    },
+    {
+        "merged": "E:\\NoteP\\app\\build\\intermediates\\res\\merged\\debug\\layout_notes_list.xml.flat",
+        "source": "E:\\NoteP\\app\\src\\main\\res\\layout\\notes_list.xml"
+    },
+    {
+        "merged": "E:\\NoteP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_default_image.png.flat",
+        "source": "E:\\NoteP\\app\\src\\main\\res\\drawable-xhdpi\\default_image.png"
+    },
+    {
+        "merged": "E:\\NoteP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_add_note.png.flat",
+        "source": "E:\\NoteP\\app\\src\\main\\res\\drawable-xhdpi\\add_note.png"
+    },
+    {
+        "merged": "E:\\NoteP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_settings.png.flat",
+        "source": "E:\\NoteP\\app\\src\\main\\res\\drawable-xhdpi\\settings.png"
+    },
+    {
+        "merged": "E:\\NoteP\\app\\build\\intermediates\\res\\merged\\debug\\font_comfortaa.xml.flat",
+        "source": "E:\\NoteP\\app\\src\\main\\res\\font\\comfortaa.xml"
+    },
+    {
+        "merged": "E:\\NoteP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_pause.png.flat",
+        "source": "E:\\NoteP\\app\\src\\main\\res\\drawable-xhdpi\\ic_pause.png"
+    },
+    {
+        "merged": "E:\\NoteP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_empty.png.flat",
+        "source": "E:\\NoteP\\app\\src\\main\\res\\drawable-xhdpi\\empty.png"
+    },
+    {
+        "merged": "E:\\NoteP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_back.png.flat",
+        "source": "E:\\NoteP\\app\\src\\main\\res\\drawable-xhdpi\\back.png"
+    },
+    {
+        "merged": "E:\\NoteP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_radio_button_on_black.png.flat",
+        "source": "E:\\NoteP\\app\\src\\main\\res\\drawable-xhdpi\\ic_radio_button_on_black.png"
+    },
+    {
+        "merged": "E:\\NoteP\\app\\build\\intermediates\\res\\merged\\debug\\layout_note_view.xml.flat",
+        "source": "E:\\NoteP\\app\\src\\main\\res\\layout\\note_view.xml"
+    },
+    {
+        "merged": "E:\\NoteP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings.png.flat",
+        "source": "E:\\NoteP\\app\\src\\main\\res\\drawable-xhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "E:\\NoteP\\app\\build\\intermediates\\res\\merged\\debug\\layout_privacypolicy.xml.flat",
+        "source": "E:\\NoteP\\app\\src\\main\\res\\layout\\privacypolicy.xml"
+    },
+    {
+        "merged": "E:\\NoteP\\app\\build\\intermediates\\res\\merged\\debug\\xml_backup_descriptor.xml.flat",
+        "source": "E:\\NoteP\\app\\src\\main\\res\\xml\\backup_descriptor.xml"
+    },
+    {
+        "merged": "E:\\NoteP\\app\\build\\intermediates\\res\\merged\\debug\\layout_notes.xml.flat",
+        "source": "E:\\NoteP\\app\\src\\main\\res\\layout\\notes.xml"
+    },
+    {
+        "merged": "E:\\NoteP\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "E:\\NoteP\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]
