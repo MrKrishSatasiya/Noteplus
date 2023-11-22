@@ -1,2 +1,2 @@
 # Note-Plus
-Note Plus Application For Android Platform By Krish Satasiya
+Note Plus Android Application For Android Platform By Krish Satasiya
